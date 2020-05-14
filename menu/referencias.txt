@@ -1,0 +1,6 @@
+Plantillas:
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_gourmet_catering&stacked=h
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_pizza
+
+Imágenes:
+https://pixabay.com/es/images/
